@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I automate chaos, monitor silence, and configure the invisible. A SysAdmin’s logbook of tools, tweaks, and tech stories.
 #twitter_username: username
 github_username: zaxrmdn
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: "sunrise"
 search: true
 
 # Build settings
@@ -63,27 +63,30 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zakaria.web.id"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#     url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zaxrmdn"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zaxrmdn"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://id.linkedin.com/in/zakaria-ramadan-08539520b"
 
 footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://zakaria.web.id"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zaxrmdn"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zaxrmdn"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://id.linkedin.com/in/zakaria-ramadan-08539520b"
 
 defaults:
   # _posts
