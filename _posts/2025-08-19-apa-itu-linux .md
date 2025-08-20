@@ -68,3 +68,6 @@ Beberapa distribusi linux yang umum
 - openSUSE
 
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
+> Blog selanjutnya [Learn Linux 2](
+https://blog.zakaria.web.id/bahasa%20indonesia/linux/sysadmin/learn%20linux/command-line-interface/)

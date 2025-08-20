@@ -12,6 +12,8 @@ tags:
   - CLI
 ---
 
+> Blog Sebelumnya [Learn Linux 1](https://blog.zakaria.web.id/bahasa%20indonesia/linux/sysadmin/learn%20linux/apa-itu-linux/)
+
 # Command Line Interface
 Salah satu ciri khas Linux dibanding sistem operasi lain adalah penggunaan command-line interface (CLI). Administrator Linux lebih sering memakai CLI untuk tugas sehari-hari, sedangkan di platform lain biasanya menggunakan GUI (antarmuka grafis).
 
@@ -58,5 +60,7 @@ Beberapa shell umum di Linux:
 
 - `zsh` (Z shell): Shell dengan fitur tambahan dan lebih ramah pengguna.
 
-Perbedaan utama antar shell terletak pada sintaks dan fitur kemudahan penggun
+Perbedaan utama antar shell terletak pada sintaks dan fitur kemudahan pengguna
 
+> Blog selanjutnya [Learn Linux 3](
+https://blog.zakaria.web.id/bahasa%20indonesia/linux/sysadmin/learn%20linux/command-line-interface/)
