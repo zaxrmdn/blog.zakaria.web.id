@@ -69,7 +69,7 @@ Perbedaan utama antar shell terletak pada sintaks dan fitur kemudahan pengguna
 ---
 
 
-# Berinteraksi dengan command Bash
+### Berinteraksi dengan command Bash
 
 
 Administrasi Linux lewat command line menggunakan shell. Shell default di Linux adalah Bash, yang punya aturan penulisan perintah (sintaks) berupa:
@@ -86,6 +86,7 @@ Di hampir semua sistem Linux juga tersedia perintah umum, direktori standar, dan
 Dengan memahami Bash dan sintaksnya, administrasi Linux akan jadi jauh lebih mudah.
 
 ### Command shell
+
 CLI disediakan oleh software yang disebut shell. Shell menerima input dari pengguna, memproses sintaks perintah, lalu menampilkan output kembali.
 
 Di Linux, shell default pada sebagian besar distro adalah Bash, dan inilah yang biasanya digunakan sysadmin.
@@ -104,6 +105,7 @@ Sebagai perbandingan:
 - macOS saat ini menggunakan zsh sebagai shell default.
 
 ### Karakteristik Bash
+
 Di Bash, perintah harus ditulis dengan struktur tertentu yang disebut sintaks. Setiap bagian sintaks punya nama:
 
 - Command: Instruksi utama yang diberikan ke sistem.
@@ -117,6 +119,7 @@ Di Bash, perintah harus ditulis dengan struktur tertentu yang disebut sintaks. S
 Ada dua bentuk dasar sintaks:
 
 ### Normal command → hanya command + option + argument.
+
 Contoh:
 
 | Command         | Penggunaan      |
@@ -129,6 +132,7 @@ Contoh:
 
 
 ### Command-subcommand → command + subcommand` + option + argument.
+
 Contoh: 
 
 | Command and Sub-Command  | Penggunaan |
