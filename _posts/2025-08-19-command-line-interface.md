@@ -17,6 +17,7 @@ toc_sticky: true
 
 > Blog Sebelumnya [Learn Linux 1](https://blog.zakaria.web.id/bahasa%20indonesia/linux/sysadmin/learn%20linux/apa-itu-linux/)
 
+
 # Command Line Interface
 Salah satu ciri khas Linux dibanding sistem operasi lain adalah penggunaan command-line interface (CLI). Administrator Linux lebih sering memakai CLI untuk tugas sehari-hari, sedangkan di platform lain biasanya menggunakan GUI (antarmuka grafis).
 
@@ -53,7 +54,7 @@ mysrv
 ```
 
 ### Apa itu Shell?
-`Shell` adalah program yang menyediakan CLI. Setiap shell punya sintaks sendiri atau cara penulisan perintah yang berbeda.
+Shell adalah program yang menyediakan CLI. Setiap shell punya sintaks sendiri atau cara penulisan perintah yang berbeda.
 
 Beberapa shell umum di Linux:
 
