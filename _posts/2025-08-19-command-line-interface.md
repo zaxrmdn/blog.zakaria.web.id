@@ -10,6 +10,9 @@ categories:
 tags:
   - Learn Linux 2
   - CLI
+toc: true
+toc_label: "Daftar Isi"
+toc_sticky: true
 ---
 
 > Blog Sebelumnya [Learn Linux 1](https://blog.zakaria.web.id/bahasa%20indonesia/linux/sysadmin/learn%20linux/apa-itu-linux/)

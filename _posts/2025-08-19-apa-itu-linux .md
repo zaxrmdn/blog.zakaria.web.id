@@ -9,6 +9,9 @@ categories:
   - Learn Linux
 tags:
   - Learn Linux 1
+toc: true
+toc_label: "Daftar Isi"
+toc_sticky: true
 ---
 
 # Apa itu linux?
