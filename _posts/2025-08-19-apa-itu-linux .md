@@ -22,7 +22,7 @@ Software dengan lisensi Free and Open-Source Software (FOSS) bisa digunakan dan 
 
 ### Sejarah Unix dengan Linux
 
-![Alt text](https://en.wikipedia.org/wiki/Unix-like#/media/File:Unix_history-simple.svg)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg)
 
 Unix adalah salah satu sistem operasi tertua, dibuat tahun 1969. Unix tidak bersifat open-source, dan tiap versinya dimiliki perusahaan berbeda, seperti IBM, HP, dan AT&T. Versi-versi ini disebut flavor Unix dan sifatnya proprietary.
 
