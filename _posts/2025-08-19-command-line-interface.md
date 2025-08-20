@@ -65,8 +65,11 @@ Beberapa shell umum di Linux:
 
 Perbedaan utama antar shell terletak pada sintaks dan fitur kemudahan pengguna
 
+---
+
 
 # Berinteraksi dengan command Bash
+
 
 Administrasi Linux lewat command line menggunakan shell. Shell default di Linux adalah Bash, yang punya aturan penulisan perintah (sintaks) berupa:
 
