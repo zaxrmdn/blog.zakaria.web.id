@@ -6,9 +6,9 @@ categories:
   - Bahasa Indonesia
   - Linux
   - Sysadmin
-  - Beginner Level
+  - Learn Linux
 tags:
-  - Linux
+  - Learn Linux 1
 ---
 
 # Apa itu linux?
