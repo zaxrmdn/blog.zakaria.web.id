@@ -57,11 +57,11 @@ mysrv
 
 Beberapa shell umum di Linux:
 
-- `Bash`: Shell default di sebagian besar distro Linux.
+- Bash: Shell default di sebagian besar distro Linux.
 
-- `ksh` (Korn shell): Shell lama yang masih digunakan di beberapa sistem.
+- ksh (Korn shell): Shell lama yang masih digunakan di beberapa sistem.
 
-- `zsh` (Z shell): Shell dengan fitur tambahan dan lebih ramah pengguna.
+- zsh (Z shell): Shell dengan fitur tambahan dan lebih ramah pengguna.
 
 Perbedaan utama antar shell terletak pada sintaks dan fitur kemudahan pengguna
 
@@ -73,11 +73,11 @@ Perbedaan utama antar shell terletak pada sintaks dan fitur kemudahan pengguna
 
 Administrasi Linux lewat command line menggunakan shell. Shell default di Linux adalah Bash, yang punya aturan penulisan perintah (sintaks) berupa:
 
-- `Command` (perintah)
+- Command (perintah)
 
-- `Option` (modifier/perintah tambahan)
+- Option (modifier/perintah tambahan)
 
-- `Argument` (nilai/target perintah)
+- Argument (nilai/target perintah)
 
 Bash punya fitur seperti tab completion (melengkapi perintah otomatis), history (riwayat perintah), serta mendukung privilege escalation (meningkatkan hak akses, misalnya dengan sudo).
 
@@ -90,11 +90,11 @@ CLI disediakan oleh software yang disebut shell. Shell menerima input dari pengg
 Di Linux, shell default pada sebagian besar distro adalah Bash, dan inilah yang biasanya digunakan sysadmin.
 Shell lain yang juga populer di Linux:
 
-- `ksh` (KornShell) → banyak dipakai di server Unix.
+- ksh (KornShell) → banyak dipakai di server Unix.
 
-- `zsh` (Z Shell) → mendukung scripting yang kuat.
+- zsh (Z Shell) → mendukung scripting yang kuat.
 
-- `fish` (Friendly Interactive Shell) → lebih ramah pengguna, bahkan punya konfigurasi berbasis web.
+- fish (Friendly Interactive Shell) → lebih ramah pengguna, bahkan punya konfigurasi berbasis web.
 
 Sebagai perbandingan:
 
@@ -105,17 +105,17 @@ Sebagai perbandingan:
 ### Karakteristik Bash
 Di Bash, perintah harus ditulis dengan struktur tertentu yang disebut sintaks. Setiap bagian sintaks punya nama:
 
-- `Command`: Instruksi utama yang diberikan ke sistem.
+- Command: Instruksi utama yang diberikan ke sistem.
 
-- `Subcommand` : Instruksi tambahan yang lebih detail, - mendukung command utama.
+- Subcommand : Instruksi tambahan yang lebih detail, - mendukung command utama.
 
-- `Option` : Modifikasi perintah, mengubah cara perintah dijalankan (biasanya diawali dengan - atau --).
+- Option : Modifikasi perintah, mengubah cara perintah dijalankan (biasanya diawali dengan - atau --).
 
-- `Argument` : Objek yang dikenai perintah. Misalnya, jika perintah untuk menghapus file, maka nama file adalah argument.
+- Argument : Objek yang dikenai perintah. Misalnya, jika perintah untuk menghapus file, maka nama file adalah argument.
 
 Ada dua bentuk dasar sintaks:
 
-### `Normal command` → hanya `command` + `option` + `argument`.
+### Normal command → hanya command + option + argument.
 Contoh:
 
 | Command         | Penggunaan      |
@@ -127,7 +127,7 @@ Contoh:
 
 
 
-### `Command-subcommand` → `command` + `subcommand` + `option` + `argument`.
+### Command-subcommand → command + subcommand` + option + argument.
 Contoh: 
 
 | Command and Sub-Command  | Penggunaan |
@@ -157,10 +157,10 @@ Tekan Enter setelah perintah yang diinginkan muncul.
 
 ### Tips & Trik Menggunakan Shell (Bash)
 
-`Tab completion` → Biasakan pakai tombol Tab untuk mempercepat pengetikan perintah atau nama file, sekaligus mengurangi salah ketik.
+Tab completion → Biasakan pakai tombol Tab untuk mempercepat pengetikan perintah atau nama file, sekaligus mengurangi salah ketik.
 
-`Gunakan history` → Kalau salah ketik dalam perintah panjang, tidak perlu mengetik ulang dari awal. Tekan ↑ (Up Arrow) untuk memanggil perintah sebelumnya, lalu gunakan ← → (Left/Right Arrow) untuk memperbaiki bagian yang salah.
+Gunakan history → Kalau salah ketik dalam perintah panjang, tidak perlu mengetik ulang dari awal. Tekan ↑ (Up Arrow) untuk memanggil perintah sebelumnya, lalu gunakan ← → (Left/Right Arrow) untuk memperbaiki bagian yang salah.
 
-`Baca perintah dari kanan ke kiri` → Saat mencari kesalahan, cek perintah dari akhir ke awal agar lebih mudah menemukan karakter yang kurang atau ganda.
+Baca perintah dari kanan ke kiri → Saat mencari kesalahan, cek perintah dari akhir ke awal agar lebih mudah menemukan karakter yang kurang atau ganda.
 
-`Bersihkan layar` → Gunakan perintah clear agar tampilan terminal kosong kembali, sehingga fokus pada tugas baru tanpa gangguan dari perintah lama.
+Bersihkan layar → Gunakan perintah clear agar tampilan terminal kosong kembali, sehingga fokus pada tugas baru tanpa gangguan dari perintah lama.
